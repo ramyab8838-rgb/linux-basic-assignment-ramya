@@ -47,7 +47,8 @@ history
 
 ### 10. uptime
 Purpose: Shows system running time.
-
+Example:
+uptime
 
  Section 2
 
@@ -80,4 +81,4 @@ Section 3
 4. ping google.com
 5. tail -n 50 application.log
 
-uptime
+
