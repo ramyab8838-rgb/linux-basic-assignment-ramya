@@ -65,7 +65,7 @@ Purpose: Shows system running time.
 
 Section 3
 
-1.  >  overwrites a file, >>  appends content to a file.
+1. > overwrites a file, >>  appends content to a file.
 2. kill -9 forcefully terminates a process.
 3. rm - removes files and directories, rmdir - removes only empty directories.
 4. netstat -tulpn - shows active network connections, listening ports, and the process using them.
